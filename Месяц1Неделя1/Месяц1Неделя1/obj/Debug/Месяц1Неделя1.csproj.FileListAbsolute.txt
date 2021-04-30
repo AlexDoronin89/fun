@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\дз\Месяц1Неделя1\Месяц1Неделя1\bin\Debug\Месяц1Неделя1.exe.config
+C:\Users\user\Desktop\дз\Месяц1Неделя1\Месяц1Неделя1\bin\Debug\Месяц1Неделя1.exe
+C:\Users\user\Desktop\дз\Месяц1Неделя1\Месяц1Неделя1\bin\Debug\Месяц1Неделя1.pdb
+C:\Users\user\Desktop\дз\Месяц1Неделя1\Месяц1Неделя1\obj\Debug\Месяц1Неделя1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\дз\Месяц1Неделя1\Месяц1Неделя1\obj\Debug\Месяц1Неделя1.Form1.resources
+C:\Users\user\Desktop\дз\Месяц1Неделя1\Месяц1Неделя1\obj\Debug\Месяц1Неделя1.Properties.Resources.resources
+C:\Users\user\Desktop\дз\Месяц1Неделя1\Месяц1Неделя1\obj\Debug\Месяц1Неделя1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\дз\Месяц1Неделя1\Месяц1Неделя1\obj\Debug\Месяц1Неделя1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\дз\Месяц1Неделя1\Месяц1Неделя1\obj\Debug\Месяц1Неделя1.exe
+C:\Users\user\Desktop\дз\Месяц1Неделя1\Месяц1Неделя1\obj\Debug\Месяц1Неделя1.pdb
